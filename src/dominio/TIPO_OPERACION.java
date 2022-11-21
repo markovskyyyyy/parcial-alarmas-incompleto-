@@ -1,0 +1,5 @@
+package dominio;
+
+public enum TIPO_OPERACION {
+    CONFIGURACION, ACTIVACION, DESACTIVACION;
+}
